@@ -8,4 +8,4 @@ $$
 x + y = 0.
 $$
 
-Those are the rules.
+Those are the rules. That's all the rules.
